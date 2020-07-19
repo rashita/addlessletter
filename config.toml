@@ -178,22 +178,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
-  [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    e-linkedin = "http://localhost:1313"
-    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    k-pocket = "http://localhost:1313"
-    l-tumblr = "http://localhost:1313"
-    m-instagram = "http://localhost:1313"
-    n-gitlab = "http://localhost:1313"
-    o-bilibili = "http://localhost:1313"
+  [params.social] 
+    a-email = "tadanorik6@gmail.com"
+    c-twitter = "https://twitter.com/rashita2"
+    g-github = "https://github.com/rashita"
+
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
