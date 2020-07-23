@@ -64,7 +64,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   description = "宛先のない手紙のような記事たち"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archivePaginate = 5
+  archivePaginate = 10
 
   # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
   showArchiveCount = false
@@ -84,8 +84,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
   frontPageSections = [
-    "announce",
-    "post"
+    "announce"
   ]
 
 
