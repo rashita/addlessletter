@@ -2,7 +2,7 @@
 title: "うちあわせcast39"
 date: 2020-07-23T16:02:08+09:00
 draft: false
-categories : ["announce"]
+categories : ["announ"]
 tags : ["うちあわせCast", "Podcast","Tak."]
 description : ""
 image : ""
