@@ -5,7 +5,7 @@ draft: false
 categories : ["announce"]
 tags : ["うちあわせCast", "Podcast","Tak."]
 description : ""
-meta_image:"うちあわせcast.jpg"
+meta_image : "うちあわせcast.jpg"
 author : "rashita"
 ---
 
