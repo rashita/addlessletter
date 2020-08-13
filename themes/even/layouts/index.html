@@ -4,11 +4,8 @@
 
   {{/* (index castannounce ) */}}
   {{ range first 1 (where site.RegularPages "Section" "castannounce") }}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-<div class="content">
-  <p>{{ .Params.description }}</p>
-</div>
-　{{ end }}
+    {{ .Render "summary" }}
+  {{ end }}
 
 </section>
 
