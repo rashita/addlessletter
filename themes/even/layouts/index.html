@@ -3,7 +3,7 @@
 <section id="castannounce" class="posts">
 
   {{/* (index castannounce ) */}}
-  {{ range first 1 (where .Site.RegularPage "Section" "castannounce") }}
+  {{ range (where .site.RegularPage "Section" "castannounce") }}
 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>>
 <div class="content">
   <p>{{ .Params.description }}</p>
