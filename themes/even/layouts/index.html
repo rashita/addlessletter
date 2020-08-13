@@ -1,7 +1,7 @@
 {{- define "content" -}}
 
 <section id="castannounce" class="posts">
-
+  <span>最新のポッドキャスト</span>
   {{/* (index castannounce ) */}}
   {{ range first 1 (where site.RegularPages "Section" "castannounce") }}
     {{ .Render "summary" }}
