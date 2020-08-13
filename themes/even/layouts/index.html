@@ -1,10 +1,15 @@
 {{- define "content" -}}
+
   <section id="posts" class="posts">
+    {{/* (index castannounce ) */}}
+    {{ range where .Site.Pages "Section" "castannounce" }}
+  <h1 class="title">{{ .Title }}</h1>
+  <div class="content">
+    <p>{{ .Params.description }}</p>
+  </div>
+　{{ end }}
+
     {{/* (index .Site.Paginate) */}}
-    {{- $paginator 2:= .Paginate (where (where site.RegularPages "Section" "castannounce") ".Params.hiddenfromhomepage" "!=" true) }}
-    {{- range $paginator.Pages -}}
-      {{ .Render "summary" }}
-    {{ end -}}
     {{- $paginator := .Paginate (where (where site.RegularPages "Section" "in" site.Params.frontPageSections) ".Params.hiddenfromhomepage" "!=" true) }}
     {{- range $paginator.Pages -}}
       {{ .Render "summary" }}
