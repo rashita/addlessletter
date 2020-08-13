@@ -1,6 +1,6 @@
 {{- define "content" -}}
 
-<section id="castannounce" class="posts" style="border: black 1px solid;">
+<section id="castannounce" class="posts" style="border-bottom: black 1px solid;background-image: url(うちあわせcast.jpg);">
   <span>最新のポッドキャスト</span>
   {{/* (index castannounce ) */}}
   {{ range first 1 (where site.RegularPages "Section" "castannounce") }}
