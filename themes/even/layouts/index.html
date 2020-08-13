@@ -2,7 +2,7 @@
 
 <section id="castannounce" class="posts">
   {{/* (index castannounce ) */}}
-  {{ range .Paginate(where .Site.RegularPage "Section" "castannounce") }}
+  {{ range .Paginate (where .Site.RegularPage "Section" "castannounce") }}
 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
 <div class="content">
   <p>{{ .Params.description }}</p>
