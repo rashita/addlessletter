@@ -84,7 +84,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
 
-  frontPageSections = ["book","castannounce","post","quote"]
+  frontPageSections = ["book","post","quote"]
 
 
   # mathjax
