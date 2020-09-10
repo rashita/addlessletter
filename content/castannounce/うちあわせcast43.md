@@ -3,7 +3,7 @@ title: "うちあわせcast43"
 date: 2020-09-10T17:55:15+09:00
 draft: false
 categories : ["announce"]
-tags : ["うちあわせCast", "Podcast",""]
+tags : ["うちあわせCast", "Podcast","Obsidian"]
 description : ""
 meta_image : "うちあわせcast.jpg"
 author : "rashita"
