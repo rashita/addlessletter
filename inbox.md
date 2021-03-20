@@ -1,4 +1,4 @@
-# todo
+inbox.md
 
 https://addlessletter.literalarts.info/
 
