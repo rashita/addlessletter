@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>記録 on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/tags/%E8%A8%98%E9%8C%B2/</link>
+    <description>Recent content in 記録 on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2020 13:33:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/tags/%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>知識とデータ</title>
+      <link>https://addlessletter.literalarts.info/post/20200723.%E7%9F%A5%E8%AD%98%E3%81%A8%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Thu, 23 Jul 2020 13:33:25 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200723.%E7%9F%A5%E8%AD%98%E3%81%A8%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF/</guid>
+      <description>自分が持っている知識で、得られるデータの受け取り方は変わってくる。 たとえば、指数関数的拡大、という概念を持っているのと持っていないのとでは、</description>
+    </item>
+    
+    <item>
+      <title>隙間時間にチリが積もる</title>
+      <link>https://addlessletter.literalarts.info/post/20200723.%E9%9A%99%E9%96%93%E3%81%AB%E3%83%81%E3%83%AA%E3%81%8B%E3%82%99%E7%A9%8D%E3%82%82%E3%82%8B/</link>
+      <pubDate>Thu, 23 Jul 2020 13:27:06 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200723.%E9%9A%99%E9%96%93%E3%81%AB%E3%83%81%E3%83%AA%E3%81%8B%E3%82%99%E7%A9%8D%E3%82%82%E3%82%8B/</guid>
+      <description>チリを積もらせ山にする→人生航海日誌（ログ）と動機付けの技術 読書猿Classic: between / beyond readers 人間は、目の前にあるもの・ことを、遠く離れてあるも</description>
+    </item>
+    
+  </channel>
+</rss>

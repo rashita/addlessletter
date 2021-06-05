@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>倉下忠憲のposter</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <meta name="theme-color" content="#fafafa">
+  <style>
+       #myposter{
+        width: 100%;
+       }
+  </style>
+</head>
+
+<body>
+
+    <div><img id="myposter" src="src/poster.studyinstudy.jpeg">
+
+    </div>
+
+</body>
+
+<script>
+
+    var pics_src = new Array("poster.studyinstudy.jpeg","poster.1.jpeg","poster.2.jpeg","poster.3.jpeg","poster.4.jpeg");
+    cPoint = 0
+
+    document.body.addEventListener('keydown',
+    event => {
+        if (event.key === "ArrowRight") {
+            cPoint ++;
+            if (cPoint > (pics_src.length - 1)){
+                cPoint = 0
+            }
+            document.getElementById("myposter").src="src/" + pics_src[cPoint];
+        }
+        if (event.key === "ArrowLeft") {
+            cPoint --;
+            if (cPoint < 0){
+                cPoint = (pics_src.length - 1)
+            }
+            document.getElementById("myposter").src="src/" + pics_src[cPoint];
+        }
+    });
+
+  </script>
+</html>

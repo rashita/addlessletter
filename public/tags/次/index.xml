@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>次 on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/tags/%E6%AC%A1/</link>
+    <description>Recent content in 次 on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2020 14:55:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/tags/%E6%AC%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>「次」の感覚</title>
+      <link>https://addlessletter.literalarts.info/post/20200722.%E6%AC%A1%E3%81%AE%E6%84%9F%E8%A6%9A/</link>
+      <pubDate>Wed, 22 Jul 2020 14:55:10 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200722.%E6%AC%A1%E3%81%AE%E6%84%9F%E8%A6%9A/</guid>
+      <description>HugoのEvenテーマでは、時系列的に新しい記事へのリンクは左に配置され、時系列に古い記事へのリンクは右に配置される。なんとなく、自分の感</description>
+    </item>
+    
+  </channel>
+</rss>

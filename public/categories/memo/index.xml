@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memo on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/categories/memo/</link>
+    <description>Recent content in memo on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jul 2020 10:37:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/categories/memo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ネットワークと学び</title>
+      <link>https://addlessletter.literalarts.info/post/20200702.%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E5%AD%A6%E3%81%B2%E3%82%99/</link>
+      <pubDate>Mon, 20 Jul 2020 10:37:58 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200702.%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E5%AD%A6%E3%81%B2%E3%82%99/</guid>
+      <description>&lt;p&gt;R-styleの過去記事を読み返して、ネットワークと学びについてのメモ書きをする。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

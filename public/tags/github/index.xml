@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/tags/github/</link>
+    <description>Recent content in GitHub on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jul 2020 17:37:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブラウザに触れなくても文章がアップできる手軽さ</title>
+      <link>https://addlessletter.literalarts.info/post/20200720.%E3%83%95%E3%82%99%E3%83%A9%E3%82%A6%E3%82%B5%E3%82%99%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E6%96%87%E7%AB%A0%E3%81%8B%E3%82%99%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E6%89%8B%E8%BB%BD%E3%81%95/</link>
+      <pubDate>Mon, 20 Jul 2020 17:37:58 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200720.%E3%83%95%E3%82%99%E3%83%A9%E3%82%A6%E3%82%B5%E3%82%99%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E6%96%87%E7%AB%A0%E3%81%8B%E3%82%99%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E6%89%8B%E8%BB%BD%E3%81%95/</guid>
+      <description>このWebサイトは、私のローカルにある.mdファイルをGitHubのリポジトリにpushしたら、NetlifyさんがHugoをうまく走らせて</description>
+    </item>
+    
+  </channel>
+</rss>

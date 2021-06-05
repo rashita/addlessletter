@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Sep 2020 17:55:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>うちあわせcast43</title>
+      <link>https://addlessletter.literalarts.info/castannounce/%E3%81%86%E3%81%A1%E3%81%82%E3%82%8F%E3%81%9Bcast43/</link>
+      <pubDate>Thu, 10 Sep 2020 17:55:15 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/castannounce/%E3%81%86%E3%81%A1%E3%81%82%E3%82%8F%E3%81%9Bcast43/</guid>
+      <description>第四十三回；Tak.さんとObsidianとプレーンテキストについて by うちあわせCast • A podcast on Anchor 今回は、Obsidian.mdの簡単な紹介</description>
+    </item>
+    
+  </channel>
+</rss>

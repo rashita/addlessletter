@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Addless Letter</title>
+    <link>https://addlessletter.literalarts.info/tags/twitter/</link>
+    <description>Recent content in Twitter on Addless Letter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Aug 2020 20:47:22 +0900</lastBuildDate>
+    
+	<atom:link href="https://addlessletter.literalarts.info/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitterらしさ</title>
+      <link>https://addlessletter.literalarts.info/post/20200812.twitter%E3%82%89%E3%81%97%E3%81%95/</link>
+      <pubDate>Wed, 12 Aug 2020 20:47:22 +0900</pubDate>
+      
+      <guid>https://addlessletter.literalarts.info/post/20200812.twitter%E3%82%89%E3%81%97%E3%81%95/</guid>
+      <description>ツイート別に、リプライを送れる人を限定できる機能がTwitterに実装された。 それって、あんまりTwitterっぽくないよな、というのが第一</description>
+    </item>
+    
+  </channel>
+</rss>
